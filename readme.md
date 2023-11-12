@@ -1,12 +1,12 @@
-# Projet d'INF 103, travail de Léon Sillano
+# Projet d'INF 103, travail personnel
 
-Ce code permet de créer sous java une application permettant de résoudre des labyrinthes.
+Ce code permet de crÃ©er sous java une application permettant de rÃ©soudre des labyrinthes.
 
 - Le dossier "src" contient le code de l'application.
 
-- Le dossier "data" contient les fichiers textes et images associées à l'application.
-Veuillez conservez tous les fichiers contenus dans de dossier data. Certains sont des exemples, d'autres sont utiles à l'application.
+- Le dossier "data" contient les fichiers textes et images associÃ©es Ã  l'application.
+Veuillez conservez tous les fichiers contenus dans de dossier data. Certains sont des exemples, d'autres sont utiles Ã  l'application.
 
-- Le dossier "doc" contient la javadoc associée au projet java.
+- Le dossier "doc" contient la javadoc associÃ©e au projet java.
 
-En espérant que cette application vous plaira.
+En espÃ©rant que cette application vous plaira.
